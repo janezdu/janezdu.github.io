@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "Self-Navigating robots use BLE"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2018-12-01-ble-paper
+excerpt: 'Self-navigating robots using Bluetooth Signal Strength to determine distance'
+date: 2018-12-01
+venue: 'Circuit Cellar'
+paperurl: 'http://janezdu.github.io/files/self-nav-robots-proof.pdf'
+citation: 'Du, Jane; Glueck, Jacob(2018). &quot;Paper Title Number 1.&quot; <i>Circuit Cellar</i>. 1(1).'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+We investigate the use of Received Signal Strenght Indicator (RSSI) of Bluetooth Low Engerge (BLE) 4.0 modules as a means for wheeled mobile robots to find their way to a stationary base station
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](http://academicpages.github.io/files/self-nav-robots-proof.pdf)
+
+Recommended citation: Du, Jane; Glueck, Jacob(2018). &quot;Paper Title Number 1.&quot; <i>Circuit Cellar</i>. 

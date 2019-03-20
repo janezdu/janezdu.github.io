@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &janezdu
+  username               : # &janezdu
 facebook:
   username               :
   app_id                 :
@@ -83,7 +83,7 @@ author:
   name             : "Jane Du"
   avatar           : "profile.png"
   bio              : "Undergraduate researcher at Cornell University"
-  location         : "Ithaca, NY"
+  location         : #"Ithaca, NY"
   employer         :
   pubmed           : #""
   googlescholar    : #""
@@ -99,7 +99,7 @@ author:
   github           : "janezdu"
   google_plus      :
   keybase          :
-  instagram        : "pliplopleep"
+  instagram        : # "pliplopleep"
   lastfm           :
   linkedin         : janezdu
   orcid            : 
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "janezdu"
+  twitter          : #"janezdu"
   vine             :
   weibo            :
   xing             :
@@ -131,6 +131,7 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
+  - vendor
   - Capfile
   - CHANGELOG
   - config
