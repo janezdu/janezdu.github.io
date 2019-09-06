@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a current undergraduate student at Cornell University finishing up my BS in Computer Science with minors in Mathematics and Electrical and Computer Engineering. My interests are theory, algorithms, networks, and machine learning. 
+I am a M.S student at Cornell University  studying Computer Science.
+
+I received my B.S. from Cornell University as well, with minors in Mathematics and Electrical and Computer Engineering. My interests are algorithms, scientific computing, machine learning, and theory. 
 
 In my free time I enjoy [digital painting](https://www.instagram.com/pliplopleep/), swimming, and reading. 
 
-My CV is available [here](http://academicpages.github.io/files/cv.pdf).
+My CV is available [here](http://janezdu.github.io/files/cv.pdf).
 

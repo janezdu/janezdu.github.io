@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jane Du"
 title_separator          : "-"
 name                     : &name "Jane Du"
-description              : &description "CS student at Cornell University"
+description              : &description "M.S. student at Cornell University"
 url                      : https://janezdu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "janezdu/janezdu.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jane Du"
   avatar           : "profile.png"
-  bio              : "Undergraduate researcher at Cornell University"
+  bio              : "M.S. researcher at Cornell University"
   location         : #"Ithaca, NY"
   employer         :
   pubmed           : #""
