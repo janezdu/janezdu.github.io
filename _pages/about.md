@@ -18,5 +18,5 @@ I received my B.S. and M.S. from Cornell University as well, with minors in Math
 
 <!-- In my free time I enjoy playing [underwater hockey](https://illinois.campuslabs.com/engage/organization/underwaterhockey), drawing, and reading.  -->
 
-<!-- My CV is available [here](http://janezdu.github.io/files/cv.pdf). -->
+My CV is available [here](http://janezdu.github.io/files/cv.pdf).
 
