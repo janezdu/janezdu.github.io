@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the University of Illinois Urbana-Champaign studying Computer Science. My interests are algorithms, scientific computing, machine learning, and theory. 
+I am a PhD candidate at the University of Illinois Urbana-Champaign studying Computer Science. My research interests span Federated Learning, optimization, and differential privacy, with a current focus on personalized federated learning for multitask and multi-domain settings. I'm interested in computationally and communication-efficient methods, sparsity, and provable generalizability.
 
 I am currently working with Professor [Arindam Banerjee](https://arindam.cs.illinois.edu/) on problems in sparsity, invariant feature selection, and multitask learning. My current project focuses on  finding efficient, trustworthy methods for the personalized federated learning setting. 
 
