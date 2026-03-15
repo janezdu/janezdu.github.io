@@ -17,7 +17,7 @@ This repository was generated with the help of GPT-5.3-Codex and Claude Code, Ma
 
 ## Edit Content
 
-Most updates happen in `data/content.json`:
+Most updates happen in `data/<x>.json`:
 
 - Update name, email, and biography in `profile`
 - Add or edit publications in `publications`
@@ -52,8 +52,6 @@ Use branch-based static hosting:
 3. Choose your main branch and `/ (root)` folder.
 4. Save.
 
+*Note:* to build correctly, ensure that `.nojekyll` is found in the root directory.
+
 GitHub Pages will publish the root static files directly.
-
-## Notes
-
-- The previous Jekyll-based site content can be archived under `legacy/` for reference.
