@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Curriculum Vitae",
+    "description": "Most recent CV.",
+    "path": "files/cv.pdf"
+  },
+  {
+    "title": "UAI 2025 Paper PDF",
+    "description": "Computationally Efficient Methods for Invariant Feature Selection with Sparsity.",
+    "path": "files/uai2025.pdf"
+  },
+  {
+    "title": "Self-Navigating Robots Use BLE PDF",
+    "description": "Circuit Cellar publication PDF.",
+    "path": "files/self-nav-robots.pdf"
+  }
+]

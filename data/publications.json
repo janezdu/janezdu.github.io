@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Computationally Efficient Methods for Invariant Feature Selection with Sparsity",
+    "date": "2025-07-22",
+    "venue": "UAI",
+    "excerpt": "Invariant Risk Minimization (IRM) proposes an optimization scheme that uses causal features to improve generalization, and this work studies sparse and computationally efficient methods for invariant feature recovery.",
+    "citation": "Du, J., and Banerjee, A. (2025). Computationally Efficient Methods for Invariant Feature Selection with Sparsity.",
+    "paperUrl": "files/uai2025.pdf",
+    "externalUrl": "https://proceedings.mlr.press/v286/du25b.html",
+    "status": "available"
+  },
+  {
+    "title": "Tracking the Hidden Trade of Non-native Pet Amphibians in the United States",
+    "date": "2026-01-06",
+    "venue": "Biological Conservation",
+    "excerpt": "This paper investigates the hidden trade of non-native pet amphibians in the United States.",
+    "citation": "Edmonds, D., Du, J., Stickley, S., and Sucre, S. (2026). Tracking the Hidden Trade of Non-native Pet Amphibians in the United States. Biological Conservation.",
+    "paperUrl": "https://www.sciencedirect.com/science/article/pii/S0006320726000224?ref=pdf_download&fr=RR-2&rr=9dc737c169080ea2"
+  },
+  {
+    "title": "Self-Navigating Robots Use BLE",
+    "date": "2018-12-01",
+    "venue": "Circuit Cellar",
+    "excerpt": "Self-navigating robots using Bluetooth signal strength to determine distance.",
+    "citation": "Du, Jane and Glueck, Jacob (2018). Self-Navigating Robots Use BLE. Circuit Cellar. 1(1).",
+    "paperUrl": "files/self-nav-robots.pdf",
+    "status": "available"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "venue": "University of Illinois Urbana-Champaign",
+    "date": "2022-present",
+    "location": "Urbana, IL",
+    "courses": [
+      "CS 412, Data Mining - 2026",
+      "CS 446, Machine Learning - 2024, 2025",
+      "CS 440, Artificial Intelligence - 2023, 2024, 2025"
+    ]
+  },
+  {
+    "venue": "Cornell University",
+    "location": "Ithaca, NY",
+    "date": "2016–2021",
+    "highlights": [
+      "Awards in 2018, 2019, and 2020 for excellence in teaching",
+      "Average 4.8/5 rating on Teaching Assistantship feedback for Spring 2020"
+    ],
+    "courses": [
+      "CS 2112, Honors Object Oriented Programming",
+      "CS 4850, Mathematical Foundations for the Information Age",
+      "CS 4700, Foundations of Artificial Intelligence",
+      "CS 2110, Object Oriented Programming",
+      "CS 4780, Introduction to Machine Learning"
+    ]
+  }
+]
